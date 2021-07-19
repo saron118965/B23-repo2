@@ -1,2 +1,6 @@
 lunch menu
 butter chicken 1200 cal
+polo 200 cal 15.99
+
+
+steak 600 cal 13.99Sandwitch 400 cal 4.99
