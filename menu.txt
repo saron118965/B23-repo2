@@ -7,3 +7,5 @@ steak 600 cal 13.99Sandwitch 400 cal 4.99
 
 pizza 3000 cal 9.99soup 5 cal 3.99
 steamed dumpling
+I am watching a movie at home
+with my friends and family
